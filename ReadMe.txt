@@ -1,14 +1,3 @@
-Instruction to Run the EXE File:
-1. Their are two folder which contains the EXE file and Python Files for the respective algorithms
-2. To Run the Exe file, just double click on it.
-3. For Breadth_First_Search it takes 20-30 secounds to show the output of EXE file,
-   while for A_Algorithm it takes relatively lesser time of around 5 secounds.
-4. I have provided a delay of 30 secound on purpose so as the EXE file will be examinable in that time.
-  (If delay was not provided execution of EXE file ends in an instance).
-5. Python Files are also provided in the folder which can be Executed/Run using any python IDE/compiler.
-6. Thank you!
-
-
 Breadth_First_Search Algorithm:
 1. The code solves the 8-puzzle problem using the Breadth_First_Search.
 2. The Starting and Goal state of 8-puzzle are directly provided/hardcoded.
